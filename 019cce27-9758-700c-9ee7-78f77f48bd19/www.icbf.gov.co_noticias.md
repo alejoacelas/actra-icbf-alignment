@@ -1,0 +1,2138 @@
+---
+url: "https://www.icbf.gov.co/noticias"
+title: "Noticias | Portal ICBF - Instituto Colombiano de Bienestar Familiar ICBF"
+---
+
+[![clic para ir a GOVCO](https://www.icbf.gov.co/sites/default/files/logo_header.png)](https://www.gov.co/)
+
+[![ícono de Accesibilidad](https://www.icbf.gov.co/sites/default/files/icon-top_15.png)Accesibilidad](https://www.icbf.gov.co/noticias#blocks-links-acc "Haz clic para mostrar las opciones de Accesibilidad")
+
+Herramientas para personas con discapacidad visual y auditiva
+
+[![icono decorativo centro de relevo](https://www.icbf.gov.co/sites/default/files/icon-acces-lsc_25.png)Enlace a Centro de Relevo](https://centroderelevo.gov.co/ "clic para ir a sitio web: centro de relevo")
+
+[![icono decorativo convertic](https://www.icbf.gov.co/sites/default/files/icons-trhome_12.png)Enlace a ConVerTic](https://www.convertic.gov.co/ "clic para ir a sitio web: convertic")
+
+[![icono decorativo informacion en lengua de señas](https://www.icbf.gov.co/sites/default/files/icon-acces-lsc_26.png) Preguntas Frecuentes con Lengua de Señas](https://www.icbf.gov.co/servicios/preguntas-y-respuestas-frecuentes "clic para consultar preguntas y respuesta frecuentes")
+
+Opciones de Formato
+
+[![icono tamaño](https://www.icbf.gov.co/sites/default/files/icon-access_01.png)](https://www.icbf.gov.co/noticias#blocks-links-acc "Clic para mostrar las opciones de Accesibilidad")**Tamaño de Texto**
+
+- [85%](https://www.icbf.gov.co/noticias#)
+- [100%](https://www.icbf.gov.co/noticias#)
+- [125%](https://www.icbf.gov.co/noticias#)
+- [150%](https://www.icbf.gov.co/noticias#)
+- [175%](https://www.icbf.gov.co/noticias#)
+- [200%](https://www.icbf.gov.co/noticias#)
+
+![icono interlinea](https://www.icbf.gov.co/sites/default/files/icon-access_02.png)**Interlineado**
+
+- [0.5](https://www.icbf.gov.co/noticias#)
+- [1](https://www.icbf.gov.co/noticias#)
+- [1.5](https://www.icbf.gov.co/noticias#)
+- [2](https://www.icbf.gov.co/noticias#)
+- [2.5](https://www.icbf.gov.co/noticias#)
+
+![icono espaciado](https://www.icbf.gov.co/sites/default/files/icon-access_03.png)**Espaciado**
+
+- [90%](https://www.icbf.gov.co/noticias#)
+- [100%](https://www.icbf.gov.co/noticias#)
+- [150%](https://www.icbf.gov.co/noticias#)
+- [200%](https://www.icbf.gov.co/noticias#)
+- [250%](https://www.icbf.gov.co/noticias#)
+
+![icono fuente](https://www.icbf.gov.co/sites/default/files/icon-access_04.png)**Fuente**
+
+- [Arial](https://www.icbf.gov.co/noticias#)
+- [Sans](https://www.icbf.gov.co/noticias#)
+- [APHont](https://www.icbf.gov.co/noticias#)
+- [Times](https://www.icbf.gov.co/noticias#)
+
+![icono contraste](https://www.icbf.gov.co/sites/default/files/icon-access_05.png)**Contraste**
+
+- [Fondo negro texto blanco](https://www.icbf.gov.co/noticias#)
+- [Fondo negro texto amarillo](https://www.icbf.gov.co/noticias#)
+- [Fondo negro texto verde](https://www.icbf.gov.co/noticias#)
+- [Fondo blanco texto negro](https://www.icbf.gov.co/noticias#)
+
+[Restaurar valores por defecto](https://www.icbf.gov.co/noticias#)
+
+ICBF
+
+[![ICBF](https://www.icbf.gov.co/sites/default/files/icbf-logo.png)](https://www.icbf.gov.co/) ICBF
+
+- [Inicio](https://www.icbf.gov.co/)
+- [El Instituto](https://www.icbf.gov.co/instituto)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://www.icbf.gov.co/sites/default/files/v2_el_instituto_menu.gif)
+
+
+
+
+
+## Acerca del ICBF
+
+
+
+
+
+
+
+Sep [Misión, visión, objetivos.](https://www.icbf.gov.co/instituto "clic para consultar informacion general")
+
+
+
+Sep [Funciones y Deberes](https://www.icbf.gov.co/instituto/funciones-deberes "clic para consultar funciones y deberes")
+
+
+
+Sep [Estructura Orgánica](https://www.icbf.gov.co/estructura-organica-icbf "clic para consultar organigrama")
+
+
+
+Sep [Directivos](https://www.icbf.gov.co/instituto/funcionarios-directivos "clic para consultar funcionarios directivos")
+
+
+
+Sep [Directivos Regionales](https://www.icbf.gov.co/instituto/funcionarios-regionales "clic para consultar funcionarios regionales")
+
+
+
+
+
+
+
+
+
+### Planeación y Gestión
+
+
+
+
+
+
+
+
+
+Sep [Modelo de Planeación y Sistema Integrado de Gestión](https://www.icbf.gov.co/modelo-planeacion-y-sistema-integrado-gestion "clic para consultar Sistema Integrado")
+
+
+
+Sep [Rendición de Cuentas](https://www.icbf.gov.co/rendicion-de-cuentas-icbf "clic para consultar Rendición de Cuentas")
+
+
+
+
+
+
+
+Sep [Modelo de Operación por Procesos](https://www.icbf.gov.co/planeacion/modelo-de-operacion-por-procesos "clic para consultar mapa de procesos")
+
+
+
+Sep [Estadísticas de Monitoreo y Evaluación](https://www.icbf.gov.co/estadisticas "clic para consultar estadísticas")
+
+
+
+
+
+
+
+
+
+
+
+### Abastecimiento
+
+
+
+
+
+
+
+[Proveedores ICBF](https://www.icbf.gov.co/proveedores-icbf-0 "Proveedores ICBF")
+
+
+
+
+
+
+
+### Normativa
+
+
+
+
+
+
+
+[Normograma ICBF](https://www.icbf.gov.co/cargues/avance/index.html "Normatividad ICBF")
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Cartelera Virtual Control Interno Disciplinario](https://www.icbf.gov.co/cartelera-virtual-control-interno-disciplinario "Cartelera Control Interno Disciplinario")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Aseguramiento a la Calidad
+
+
+
+
+
+
+
+[Licencias de Funcionamiento](https://www.icbf.gov.co/aseguramiento-calidad/licencias-funcionamiento "Licencias de Funcionamiento")
+
+
+
+[Personerías Jurídicas](https://www.icbf.gov.co/aseguramiento-calidad/personerias-juridicas "Personerías Jurídicas")
+
+
+
+[Procesos Administrativos Sancionatorios](https://www.icbf.gov.co/aseguramiento-calidad/procesos-administrativos-sancionatorios "Sancionatorios")
+
+[Más información](https://www.icbf.gov.co/aseguramiento-calidad "clic para ir a la sección Aseguramiento a la Calidad")
+
+
+
+
+
+### Información Jurídica
+
+
+
+
+
+
+
+[Actas Contentivas de Acuerdos Conciliatorios](https://www.icbf.gov.co/informacion-juridica/actas-contentivas "Acuerdos Conciliatorios")
+
+
+
+[Notificaciones Procesos de Cobro Coactivo](https://www.icbf.gov.co/informacion-juridica/notificaciones-procesos-cobro-coactivos "Cobro Coactivos")
+
+
+
+[Notificaciones](https://www.icbf.gov.co/informacion-juridica/notificaciones "Notificaciones")
+
+
+
+[Informe Trimestral de Procesos Judiciales](https://www.icbf.gov.co/informacion-juridica/procesos-judiciales "Procesos Judiciales")
+
+[Más de Jurídica](https://www.icbf.gov.co/informacion-juridica " Más de Jurídica")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Gestión Humana
+
+
+
+
+
+
+
+
+
+[Manual de Funciones](https://www.icbf.gov.co/gestion-humana/manual-funciones "Manual de Funciones")
+
+
+
+[Empleos Libre Nombramiento y Remoción](https://www.icbf.gov.co/gestion-humana/empleos-libre-nombramiento-y-remocion "Empleos libre nombramiento y remoción")
+
+
+
+[Nombramientos](https://www.icbf.gov.co/gestion-humana/nombramientos "Nombramientos")
+
+
+
+[Encargos](https://www.icbf.gov.co/gestion-humana/encargos "Encargos")
+
+
+
+
+
+
+
+[Directorio de Servidores ICBF](https://www.icbf.gov.co/gestion-humana/directorio-servidores-icbf "Directorio de Servicios ICBF")
+
+
+
+[Convocatorias Públicas - Directores Regionales](https://www.icbf.gov.co/gestion-humana/concurso-directores-regionales "Convocatorias Públicas directores generales")
+
+
+
+[Convocatorias CNSC](https://www.icbf.gov.co/gestion-humana/convocatorias-cnsc "Convocatorias CNSC")
+
+[Más de Gestión Humana](https://www.icbf.gov.co/gesti%C3%B3n-humana "Más de gestión Humana")
+
+- [Programas\\
+\\
+y Estrategias](https://www.icbf.gov.co/bienestar)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://www.icbf.gov.co/sites/default/files/v3_programas-y-estrategias_menu.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Programas, Modalidades y Estrategias de Atención
+
+
+
+Estrategias de promoción, prevención y protección para la atención integral de niños, niñas, adolescentes y sus familias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Más información](https://www.icbf.gov.co/bienestar "consultar más información de programas y estrategias") [![clic para consultar ADA - Asistente de Adopciones](https://www.icbf.gov.co/sites/default/files/ada-imagen.png)](https://www.icbf.gov.co/programa-adopciones "consultar programa de adopciones")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Primera Infancia](https://www.icbf.gov.co/sites/default/files/2026-02/primera_infancia_menu_0.jpg)](https://www.icbf.gov.co/bienestar/primera-infancia "Primera Infancia") Read [Primera Infancia](https://www.icbf.gov.co/bienestar/primera-infancia "Primera Infancia") Read
+
+
+
+
+
+
+
+[![Protección](https://www.icbf.gov.co/sites/default/files/infancia_1.jpg?itok=vBJjeDp_?itok=vBJjeDp_?itok=D8huwHGog)](https://www.icbf.gov.co/programas-y-estrategias/direccion-de-infancia "Protección") Read [Infancia](https://www.icbf.gov.co/programas-y-estrategias/direccion-de-infancia "Infancia") Read
+
+
+
+
+
+
+
+[![Protección](https://www.icbf.gov.co/sites/default/files/proteccion_5.jpg)](https://www.icbf.gov.co/bienestar/proteccion-2023 "Protección") Read [Protección](https://www.icbf.gov.co/bienestar/proteccion-2023 "Protección") Read
+
+
+
+
+
+
+
+[![Nutrición](https://www.icbf.gov.co/sites/default/files/whatsapp_image_2020-08-02_at_12.34.06_am.jpeg)](https://www.icbf.gov.co/bienestar/nutricion "Nutrición") Read [Nutrición](https://www.icbf.gov.co/bienestar/nutricion "Nutrición") Read
+
+
+
+
+
+
+
+[![Niñez y Adolescencia](https://www.icbf.gov.co/sites/default/files/adolescencia_y_juventud.jpg)](https://www.icbf.gov.co/programas-y-estrategias/direccion-de-adolescencia-y-juventud "Niñez y adolescencia") Read [Adolescencia y Juventud](https://www.icbf.gov.co/programas-y-estrategias/direccion-de-adolescencia-y-juventud "Niñez y adolescencia") Read
+
+
+
+
+
+
+
+[![Familia y comunidades](https://www.icbf.gov.co/sites/default/files/familias_y_comunidades.jpg)](https://www.icbf.gov.co/familias-y-comunidades "Familia y Comunidades") Read [Familias y Comunidades](https://www.icbf.gov.co/familias-y-comunidades "Familia y Comunidades") Read
+
+
+
+
+
+
+
+[![Sistema Nacional de Bienestar Familiar](https://www.icbf.gov.co/sites/default/files/sistema_nacional_de_bienestar_familiar_snbf.jpg)](https://www.icbf.gov.co/programas-y-estrategias/direccion-snbf "Sistema Nacional de Bienestar Familiar") Read [Sistema Nacional de Bienestar Familiar (SNBF)](https://www.icbf.gov.co/programas-y-estrategias/direccion-snbf "Sistema Nacional de Bienestar Familiar") Read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Ley de Infancia y Adolescencia
+
+
+
+
+
+
+
+[Acerca de la Ley](https://www.icbf.gov.co/bienestar/ley-infancia-adolescencia "clic para consultar más información")
+
+
+
+[Citaciones](https://www.icbf.gov.co/citaciones "clic para consultar citaciones")
+
+
+
+
+
+
+
+### Estrategias Integrales
+
+
+
+
+
+
+
+[Observatorio de Bienestar de la Niñez](https://www.icbf.gov.co/programas-y-estrategias/observatorio-de-bienestar "consultar Observatorio de Bienestar")
+
+
+
+[Estrategia de Compras Locales](https://www.icbf.gov.co/bienestar/compras-locales "consultar Estrategia de Compras Locales")
+
+
+
+[Cuéntame - Sistema Información de Primera Infancia](https://www.icbf.gov.co/programas-y-estrategias/primera-infancia/cuentame "consultar Cuéntame - Sistema Información de Primera Infancia")
+
+
+
+[Sistema Único de Información de la Niñez del SNBF (SUIN)](https://portalsuin.icbf.gov.co/sites/suin/ "Consultar SUIN - Sistema Único de Información de la Niñez")
+
+- [Transparencia y Acceso\\
+\\
+a Información Pública](https://www.icbf.gov.co/transparencia-y-acceso-informacion-publica)
+- [Atención y Servicios\\
+\\
+a la Ciudadanía](https://www.icbf.gov.co/atencion-y-servicios-ciudadania)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://www.icbf.gov.co/sites/default/files/v5_atencion_servicios_menu.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Atención y Servicios a la Ciudadanía
+
+[Ventanilla de Trámites y Servicios](https://www.icbf.gov.co/ventanilla-tramites-y-servicios "clic para consultar ventanilla de trámites") [Preguntas Frecuentes](https://www.icbf.gov.co/servicios/preguntas-y-respuestas-frecuentes "clic para consultar preguntas frecuentes") [Oferta Institucional](https://www.icbf.gov.co/portafolio-de-servicios-icbf "clic para consultar Oferta Institucional") [Puntos de Atención](https://www.icbf.gov.co/puntos-atencion "clic para consultar puntos de atención") [Cartelera Virtual ICBF](https://www.icbf.gov.co/cartelera-virtual-icbf "clic para consultar cartelera virtual ICBF") [Validación Somos Familia](https://proveedores.icbf.gov.co/ValidarContratista.aspx)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Canales de Atención
+
+
+
+
+
+
+
+
+
+
+
+[![icono decorativo whatsapp](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_08.png)](https://www.icbf.gov.co/mensaje-confirmacion-whatsapp "clic para enviar correo")
+
+
+
+
+
+#### [WhatsApp](https://www.icbf.gov.co/mensaje-confirmacion-whatsapp "clic para enviar correo")
+
+
+
+Escríbenos desde tu celular, Disponible lunes a viernes de 8:00 am a 5:00 pm
+
+
+
+
+
+
+
+
+
+[![icono decorativo chat icbf](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_03.png)](https://cw-presenceweb.comware.com.co/icbf/chat-icbf.html "clic para iniciar chat")
+
+
+
+
+
+#### [Chat ICBF](https://icbf.ucontactcloud.com/custom/ICBFChat/ "clic para iniciar chat")
+
+
+
+Disponible lunes a sábado 8:00 am a 6:00 pm
+
+
+
+
+
+
+
+
+
+[![icono decorativo videollamada](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_04.png)](https://cw-presenceweb.comware.com.co/icbf/video-icbf.html "clic para iniciar videollamada")
+
+
+
+
+
+#### [Videollamada](https://icbf.ucontactcloud.com/custom/ICBFVideollamada/ "clic para iniciar videollamada")
+
+
+
+Disponible lunes a viernes de 8:00 a.m. a 6:00 p.m.
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![icono decorativo llamada online](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_07.png)](https://cw-presenceweb.comware.com.co/icbf/audio-icbf.html "clic para iniciar llamada en línea")
+
+
+
+
+
+#### [Llamada en Línea](https://icbf.ucontactcloud.com/custom/ICBFC2Call/ "clic para iniciar llamada")
+
+
+
+Disponible lunes a viernes de 8:00 a.m. a 5:00 p.m.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![icono decorativo linea anticorrupción](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_10.png)](https://www.icbf.gov.co/servicios/linea-anticorrupcion-icbf "clic para más información")
+
+
+
+
+
+#### [Línea Anticorrupción](https://www.icbf.gov.co/servicios/linea-anticorrupcion-icbf "clic para más información")
+
+
+
+Informe de denuncias
+
+
+
+
+
+
+
+
+
+![icono decorativo correo de contacto](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_05.png)
+
+
+
+
+
+#### Correo de Contacto
+
+
+
+**Institucional:** [AtencionAlCiudadano@icbf.gov.co](mailto:atencionalciudadano@icbf.gov.co "clic para enviar correo")
+
+**Notificaciones Judiciales :** [Notificaciones.Judiciales@icbf.gov.co](mailto:Notificaciones.Judiciales@icbf.gov.co "clic para enviar correo")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![icono decorativo teléfono verde](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_10.png)](https://www.icbf.gov.co/telefono-verde "clic para más información")
+
+
+
+
+
+#### [Teléfono Verde](https://www.icbf.gov.co/telefono-verde "clic para más información")
+
+
+
+Conoce el teléfono verde
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Registrar PQRS](https://www.icbf.gov.co/sites/default/files/icon-serviceicbf_07.png)](https://www.icbf.gov.co/telefono-verde "clic para más información")
+
+
+
+
+
+#### [Registrar PQRS](https://www.icbf.gov.co/mensaje-de-confirmacion-pqrs "clic para más información")
+
+
+
+Formulario para peticiones, quejas, reclamos y sugerencias
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Información para la Ciudadanía
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Seguimiento a Solicitudes PQRS](https://www.icbf.gov.co/servicios/seguimiento-solicitudes "consultar estado de peticiones")
+
+
+
+[Informe de PQRS y Solicitudes de Acceso a la Información](https://www.icbf.gov.co/servicios/informes-pqrs "consultar informe de PQRS y solicitudes de acceso a la información")
+
+
+
+[Informes Encuesta de Satisfacción](https://www.icbf.gov.co/servicios/informes-encuesta-satisfaccion "consultar informe encuesta de satisfacción")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Publicaciones Derechos de Petición (Ley 1755 de 2015)](https://www.icbf.gov.co/servicios/publicaciones-derecho-de-peticion-ley-1755-2015 "consultar respuestas derechos de petición")
+
+
+
+[Notificaciones por Estado Virtual - PARD](https://sim.icbf.gov.co/SEACOnline/Page/SEACOnline/NotificacionEstado/List.aspx "consultar informes")
+
+
+
+[Caracterización Peticionarios ICBF](https://www.icbf.gov.co/servicios/caracterizacion-cuidadanos-peticionarios "consultar caracterización")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Carta Trato Digno a la Ciudadanía](https://www.icbf.gov.co/servicios/carta-trato-digno-ciudadania "consultar carta trato digno ciudadanía")
+
+
+
+[Protocolo General de Servicios y Atención al Ciudadano](https://www.icbf.gov.co/system/files/procesos/pt3.rc_protocolo_general_de_servicio_y_atencion_al_ciudadano_v2.pdf "consultar protocolo de servicios y atención")
+
+[Más información](https://www.icbf.gov.co/servicios "consultar más información de servicios y atención")
+
+- [Participa](https://www.icbf.gov.co/transparencia-y-acceso-informacion-publica/participa)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://www.icbf.gov.co/sites/default/files/v6_participa_menu.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Participa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace participación para el diagnóstico](https://www.icbf.gov.co/sites/default/files/a63b3ba5-0e06-48e6-8744-ff8208a5ed9b_0.jpeg)](https://www.icbf.gov.co/participa/diagnostico-e-identificacion-de-problemas "clic para consultar participación en la formulación de Políticas")
+
+
+
+[Participación para el Diagnóstico e Identificación de Problemas](https://www.icbf.gov.co/participa/diagnostico-e-identificacion-de-problemas)
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace participación y Presupuesto Participativo](https://www.icbf.gov.co/sites/default/files/9e7ea7d2-cb58-4d27-927c-7d91cfa4ae8f_0.jpeg)](https://www.icbf.gov.co/participa/planeacion-y-presupuesto-participativo "clic para consultar participación y Presupuesto Participativo")
+
+
+
+[Planeación y Presupuesto Participativo](https://www.icbf.gov.co/participa/planeacion-y-presupuesto-participativo)
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace consulta ciudadana](https://www.icbf.gov.co/sites/default/files/img-20210706-wa0008.jpg)](https://www.icbf.gov.co/participa/consulta-ciudadana "clic para consultar consulta ciudadana")
+
+
+
+[Consulta Ciudadana](https://www.icbf.gov.co/participa/consulta-ciudadana)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace Colaboración e Innovación](https://www.icbf.gov.co/sites/default/files/foto_3_diana.jpg)](https://www.icbf.gov.co/participa/colaboracion-e-innovacion "clic para consultar Colaboración e Innovación")
+
+
+
+[Colaboración e Innovación](https://www.icbf.gov.co/participa/colaboracion-e-innovacion)
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace Rendición de Cuentas](https://www.icbf.gov.co/sites/default/files/photo-2018-10-03-16-31-06.jpg)](https://www.icbf.gov.co/rendicion-de-cuentas-icbf "clic para consultar Rendición de Cuentas")
+
+
+
+[Rendición de Cuentas](https://www.icbf.gov.co/rendicion-de-cuentas-icbf)
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace control social](https://www.icbf.gov.co/sites/default/files/7cf50928-eabb-4291-91d6-15a9d2897347_0.jpeg)](https://www.icbf.gov.co/participa/control-social "clic para consultar control social")
+
+
+
+[Control Social](https://www.icbf.gov.co/participa/control-social)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![imagen decorativa enlace Canal de Interacción Deliberatoria](https://www.icbf.gov.co/sites/default/files/nna-generaciones2-0_0.jpg)](https://www.icbf.gov.co/participa/colaboracion-e-innovacion "clic para consultar Canal de Interacción Deliberatoria")
+
+
+
+[Canal de Interacción Deliberatoria](https://www.icbf.gov.co/canal-interacci%C3%B3n-deliberatoria-pc)
+
+- [Contratación](https://www.icbf.gov.co/contratacion)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Lengua de Señas: Contratación](https://www.icbf.gov.co/sites/default/files/v7_contratacion_menu.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Contratación ICBF
+
+
+
+Información de procesos contractuales de la entidad
+
+
+
+[Manual de Contratación](https://www.icbf.gov.co/contratacion "clic para consultar manual de contratación") [Directorio de Contratistas](https://www.icbf.gov.co/contratacion/directorio-contratistas "clic para consultar directorio de contratistas") [Certificaciones Contractuales](https://proveedores.icbf.gov.co/DefaultCertificaciones.aspx "Certificaciones Contractuales")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Régimen Especial de Aporte](https://www.icbf.gov.co/contratacion/regimen-especial-aporte "consultar información de régimen especial de aporte")
+
+
+
+[Procesos de Selección - Avisos de Convocatoria](https://www.icbf.gov.co/contratacion/avisos-convocatoria "consultar información de procesos de selección")
+
+
+
+[Notificaciones y Avisos](https://www.icbf.gov.co/contratacion/notificaciones-avisos "consultar información de Notificaciones y Avisos")
+
+
+
+[Venta de Acciones No Inscritas en Bolsa](https://www.icbf.gov.co/contratacion/venta-acciones "consultar información de Venta de Acciones No Inscritas en Bolsa")
+
+- [Noticias](https://www.icbf.gov.co/noticias)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![video Lengua de Señas: Noticias](https://www.icbf.gov.co/sites/default/files/v8_noticias_menu.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Especiales
+
+
+
+
+
+
+
+
+
+[Mi Familia Universal](https://www.icbf.gov.co/mi-familia-universal "clic para consultar: Mi Familia Universal")
+
+
+
+[#Es Hora de Cambiar](https://www.icbf.gov.co/es-hora-de-cambiar "clic para consultar: Es Hora de Cambiar")
+
+
+
+[Derechos con Inclusión](https://www.icbf.gov.co/derechos-con-inclusion "clic para consultar: Derechos con Inclusión")
+
+
+
+[V Foro Interamericano](https://www.icbf.gov.co/V-foro "clic para consultar V-Foro")
+
+
+
+
+
+
+
+[Migrantes](https://www.icbf.gov.co/migrantes "clic para consultar: especial migrantes")
+
+
+
+[Streaming](https://www.icbf.gov.co/streaming "clic para consultar transminisión en streaming")
+
+
+
+[50 años ICBF](https://www.icbf.gov.co/noticias/50-icbf "clic para consultar 50 años ICBF")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Noticias ICBF
+
+
+
+
+
+
+
+
+
+[Comunicados de Prensa](https://www.icbf.gov.co/noticias "clic para consultar comunicados de prensa")
+
+
+
+
+
+
+
+[Podcasts](https://www.icbf.gov.co/noticias/podcast "clic para consultar podcasts")
+
+
+
+[Agenda](https://www.icbf.gov.co/calendario-de-eventos-icbf "clic para consultar calendario")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Radio y TV
+
+
+
+
+
+
+
+[En Familia](http://alacarta.caracol.com.co/programa/en_familia/ "clic para consultar programa radial")
+
+
+
+[Mis Manos te Enseñan TV](https://www.youtube.com/playlist?list=PL95L1GDSvl5-yePcJMjTpOqIQJTJ3mJ4q "clic para ver capítulos de programa de TV")
+
+[Fallos de Tutela](https://www.icbf.gov.co/notificaciones-fallos-de-tutela "Consultar documentos notificaciones fallos de tutela")
+
+
+
+
+
+## Publicaciones
+
+
+
+
+
+
+
+[Institucionales](https://www.icbf.gov.co/noticias/publicaciones/editoriales-y-boletines "clic para consultar publicaciones generales")
+
+
+
+[Recetario Étnico Colombiano](https://www.icbf.gov.co/publicaciones/recetario "clic para consultar recetario")
+
+
+Usted está en:
+
+## Ruta de navegación
+
+1. [Inicio](https://www.icbf.gov.co/)
+2. Noticias
+
+
+## Comunicados de Prensa
+
+Filtrar por fecha de publicación
+
+\- Cualquiera -
+
+2026 (78)
+
+2025 (747)
+
+2024 (969)
+
+2023 (898)
+
+2022 (1000)
+
+2021 (1038)
+
+2020 (720)
+
+2019 (613)
+
+2018 (667)
+
+2017 (759)
+
+2016 (782)
+
+2015 (343)
+
+Filtrar por tipo\- Cualquiera -Regional (4524)Destacado (1618)Nacional (1381)Misional (142)BETTO (12)Comunicado (8)Pólvora (7)V-FORO (6)BNOPI (3)Especiales (1)
+
+Filtrar por ubicación\- Cualquiera -Bogotá, D. C. (2916)Pereira (89)Manizales (69)La Guajira (53)Cundinamarca (18)Atlántico (16)Quindío (12)Cauca (10)Chocó (10)Antioquia (9)Tolima (9)Boyacá (7)Magdalena (7)Norte de Santander (7)Santander (7)Cesar (6)Córdoba (6)Putumayo (6)Valle del Cauca (5)Bolivar (4)Casanare (4)Guaviare (4)Pueblo Rico (4)Arauca (3)Caquetá (3)Huila (3)Risaralda (3)Balboa (2)Nariño (2)Riosucio (2)Amazonas (1)Belalcazar (1)Belén de Umbría (1)Chinchiná (1)Dosquebradas (1)Guainia (1)La Virginia (1)Marquetalia (1)Meta (1)San Andrés (1)San José (1)Santa Rosa de Cabal (1)Sucre (1)Vaupés (1)Vichada (1)
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar inicia atención directa a la primera infancia en Dibulla](https://www.icbf.gov.co/sites/default/files/IMG_3715.jpeg)](https://www.icbf.gov.co/noticias/bienestar-familiar-inicia-atencion-directa-la-primera-infancia-en-dibulla)
+
+La Guajira, Dibulla6 Marzo, 2026
+
+### [Bienestar Familiar inicia atención directa a la primera infancia en Dibulla](https://www.icbf.gov.co/noticias/bienestar-familiar-inicia-atencion-directa-la-primera-infancia-en-dibulla "consultar noticia: Bienestar Familiar inicia atención directa a la primera infancia en Dibulla ")
+
+Bienestar Familiar inició la operación directa del servicio de atención a la primera infancia en el Hogar Infantil Dibulla, en...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-inicia-atencion-directa-la-primera-infancia-en-dibulla&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-inicia-atencion-directa-la-primera-infancia-en-dibulla&text=:/noticias/bienestar-familiar-inicia-atencion-directa-la-primera-infancia-en-dibulla&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-inicia-atencion-directa-la-primera-infancia-en-dibulla "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Desde el Bienestar Familiar impulsamos la reforma agraria a través de la alimentación de la niñez colombiana](https://www.icbf.gov.co/sites/default/files/Nutricio%CC%81n.jpeg)](https://www.icbf.gov.co/noticias/desde-el-bienestar-familiar-impulsamos-la-reforma-agraria-traves-de-la-alimentacion-de-la)
+
+Bogotá, D. C.4 Marzo, 2026
+
+### [Desde el Bienestar Familiar impulsamos la reforma agraria a través de la alimentación de la niñez colombiana](https://www.icbf.gov.co/noticias/desde-el-bienestar-familiar-impulsamos-la-reforma-agraria-traves-de-la-alimentacion-de-la "consultar noticia: Desde el Bienestar Familiar impulsamos la reforma agraria a través de la alimentación de la niñez colombiana ")
+
+Enel Bienestar Familiar avanzamos...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/desde-el-bienestar-familiar-impulsamos-la-reforma-agraria-traves-de-la-alimentacion-de-la&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/desde-el-bienestar-familiar-impulsamos-la-reforma-agraria-traves-de-la-alimentacion-de-la&text=:/noticias/desde-el-bienestar-familiar-impulsamos-la-reforma-agraria-traves-de-la-alimentacion-de-la&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/desde-el-bienestar-familiar-impulsamos-la-reforma-agraria-traves-de-la-alimentacion-de-la "Enviar email")
+
+[![Bienestar Familiar fortalece procesos de memoria, resignificación y acompañamiento psicosocial en Ciudad Bolívar](https://www.icbf.gov.co/sites/default/files/Nota%20pijao%202.jpeg)](https://www.icbf.gov.co/bienestar-familiar-fortalece-procesos-de-memoria-resignificacion-y-acompanamiento-psicosocial-en)
+
+Bogotá, D. C.4 Marzo, 2026
+
+### [Bienestar Familiar fortalece procesos de memoria, resignificación y acompañamiento psicosocial en Ciudad Bolívar](https://www.icbf.gov.co/bienestar-familiar-fortalece-procesos-de-memoria-resignificacion-y-acompanamiento-psicosocial-en "consultar noticia: Bienestar Familiar fortalece procesos de memoria, resignificación y acompañamiento psicosocial en Ciudad Bolívar ")
+
+El Bienestar Familiar , a través de los equipos de unidades móviles en Bogotá, realizó la actividad lúdico-pedagógica Muralismo en el asentamiento...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/bienestar-familiar-fortalece-procesos-de-memoria-resignificacion-y-acompanamiento-psicosocial-en&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/bienestar-familiar-fortalece-procesos-de-memoria-resignificacion-y-acompanamiento-psicosocial-en&text=:/bienestar-familiar-fortalece-procesos-de-memoria-resignificacion-y-acompanamiento-psicosocial-en&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/bienestar-familiar-fortalece-procesos-de-memoria-resignificacion-y-acompanamiento-psicosocial-en "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Nunca más la niñez en la guerra: Bienestar Familiar reitera su llamado a dejar a los niños y niñas por fuera del conflicto](https://www.icbf.gov.co/sites/default/files/IMG_0006_4.jpeg)](https://www.icbf.gov.co/noticias/nunca-mas-la-ninez-en-la-guerra-bienestar-familiar-reitera-su-llamado-dejar-los-ninos-y)
+
+Bogotá, D. C.3 Marzo, 2026
+
+### [Nunca más la niñez en la guerra: Bienestar Familiar reitera su llamado a dejar a los niños y niñas por fuera del conflicto](https://www.icbf.gov.co/noticias/nunca-mas-la-ninez-en-la-guerra-bienestar-familiar-reitera-su-llamado-dejar-los-ninos-y "consultar noticia: Nunca más la niñez en la guerra: Bienestar Familiar reitera su llamado a dejar a los niños y niñas por fuera del conflicto ")
+
+-  Bienestar Familiar reitera que el reclutamiento de niñas, niños y adolescentes constituye una de las más graves...
+
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/nunca-mas-la-ninez-en-la-guerra-bienestar-familiar-reitera-su-llamado-dejar-los-ninos-y&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/nunca-mas-la-ninez-en-la-guerra-bienestar-familiar-reitera-su-llamado-dejar-los-ninos-y&text=:/noticias/nunca-mas-la-ninez-en-la-guerra-bienestar-familiar-reitera-su-llamado-dejar-los-ninos-y&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/nunca-mas-la-ninez-en-la-guerra-bienestar-familiar-reitera-su-llamado-dejar-los-ninos-y "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![En Quindío se exaltó la labor de defensores y defensoras de familia](https://www.icbf.gov.co/sites/default/files/IMG_6982.jpeg)](https://www.icbf.gov.co/noticias/en-quindio-se-exalto-la-labor-de-defensores-y-defensoras-de-familia)
+
+Quindío, Armenia3 Marzo, 2026
+
+### [En Quindío se exaltó la labor de defensores y defensoras de familia](https://www.icbf.gov.co/noticias/en-quindio-se-exalto-la-labor-de-defensores-y-defensoras-de-familia "consultar noticia: En Quindío se exaltó la labor de defensores y defensoras de familia ")
+
+El Instituto Colombiano de Bienestar Familiar Regional Quindío conmemoró el Día del Defensor y la Defensora de Familia, una fecha para reconocer y...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/en-quindio-se-exalto-la-labor-de-defensores-y-defensoras-de-familia&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/en-quindio-se-exalto-la-labor-de-defensores-y-defensoras-de-familia&text=:/noticias/en-quindio-se-exalto-la-labor-de-defensores-y-defensoras-de-familia&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/en-quindio-se-exalto-la-labor-de-defensores-y-defensoras-de-familia "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar articula estrategia para prevenir el trabajo infantil en Yopal](https://www.icbf.gov.co/sites/default/files/EMPICASANARE1.jpeg)](https://www.icbf.gov.co/noticias/bienestar-familiar-articula-estrategia-para-prevenir-el-trabajo-infantil-en-yopal)
+
+Yopal, Casanare3 Marzo, 2026
+
+### [Bienestar Familiar articula estrategia para prevenir el trabajo infantil en Yopal](https://www.icbf.gov.co/noticias/bienestar-familiar-articula-estrategia-para-prevenir-el-trabajo-infantil-en-yopal "consultar noticia: Bienestar Familiar articula estrategia para prevenir el trabajo infantil en Yopal ")
+
+Con el propósito de promover la garantía de los derechos de niñas, niños y adolescentes, el Bienestar Familiar desplegó desde esta semana...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-articula-estrategia-para-prevenir-el-trabajo-infantil-en-yopal&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-articula-estrategia-para-prevenir-el-trabajo-infantil-en-yopal&text=:/noticias/bienestar-familiar-articula-estrategia-para-prevenir-el-trabajo-infantil-en-yopal&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-articula-estrategia-para-prevenir-el-trabajo-infantil-en-yopal "Enviar email")
+
+[Destacado](https://www.icbf.gov.co/destacado)
+
+[![Una nueva etapa: así se transforma «¿Me conoces?» para llegar a tiempo por la niñez](https://www.icbf.gov.co/sites/default/files/Presentaci%C3%B3n%20Me%20Conoces.jpg)](https://www.icbf.gov.co/una-nueva-etapa-asi-se-transforma-me-conoces-para-llegar-tiempo-por-la-ninez)
+
+Bogotá, D. C.2 Marzo, 2026
+
+### [Una nueva etapa: así se transforma «¿Me conoces?» para llegar a tiempo por la niñez](https://www.icbf.gov.co/una-nueva-etapa-asi-se-transforma-me-conoces-para-llegar-tiempo-por-la-ninez "consultar noticia: Una nueva etapa: así se transforma «¿Me conoces?» para llegar a tiempo por la niñez ")
+
+- Bienestar Familiar puso en marcha una nueva etapa de «¿Me Conoces?», un mecanismo de difusión nacional que permite ubicar a familiares o...
+
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/una-nueva-etapa-asi-se-transforma-me-conoces-para-llegar-tiempo-por-la-ninez&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/una-nueva-etapa-asi-se-transforma-me-conoces-para-llegar-tiempo-por-la-ninez&text=:/una-nueva-etapa-asi-se-transforma-me-conoces-para-llegar-tiempo-por-la-ninez&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/una-nueva-etapa-asi-se-transforma-me-conoces-para-llegar-tiempo-por-la-ninez "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Se realizó el primer Comité del Sistema de Responsabilidad Penal para Adolescentes en Quindío](https://www.icbf.gov.co/sites/default/files/SRPA%20Quindio%201.jpeg)](https://www.icbf.gov.co/noticias/se-realizo-el-primer-comite-del-sistema-de-responsabilidad-penal-para-adolescentes-en)
+
+Armenia, Quindío2 Marzo, 2026
+
+### [Se realizó el primer Comité del Sistema de Responsabilidad Penal para Adolescentes en Quindío](https://www.icbf.gov.co/noticias/se-realizo-el-primer-comite-del-sistema-de-responsabilidad-penal-para-adolescentes-en "consultar noticia: Se realizó el primer Comité del Sistema de Responsabilidad Penal para Adolescentes en Quindío ")
+
+El Bienestar Familiar Regional Quindío participó en el primer Comité del Sistema de Responsabilidad Penal para Adolescentes (SRPA) de 2026, un...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/se-realizo-el-primer-comite-del-sistema-de-responsabilidad-penal-para-adolescentes-en&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/se-realizo-el-primer-comite-del-sistema-de-responsabilidad-penal-para-adolescentes-en&text=:/noticias/se-realizo-el-primer-comite-del-sistema-de-responsabilidad-penal-para-adolescentes-en&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/se-realizo-el-primer-comite-del-sistema-de-responsabilidad-penal-para-adolescentes-en "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar fortalece la atención integral para más de 6.000 niños, niñas y adolescentes afectados por la emergencia en Córdoba](https://www.icbf.gov.co/sites/default/files/IMG_3584.jpeg)](https://www.icbf.gov.co/noticias/bienestar-familiar-fortalece-la-atencion-integral-para-mas-de-6000-ninos-ninas-y)
+
+Cordoba, Montería1 Marzo, 2026
+
+### [Bienestar Familiar fortalece la atención integral para más de 6.000 niños, niñas y adolescentes afectados por la emergencia en Córdoba](https://www.icbf.gov.co/noticias/bienestar-familiar-fortalece-la-atencion-integral-para-mas-de-6000-ninos-ninas-y "consultar noticia: Bienestar Familiar fortalece la atención integral para más de 6.000 niños, niñas y adolescentes afectados por la emergencia en Córdoba ")
+
+- Con presencia en más de 13 municipios del departamento afectados, el Bienestar Familiar garantiza protección, nutrición...
+
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-fortalece-la-atencion-integral-para-mas-de-6000-ninos-ninas-y&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-fortalece-la-atencion-integral-para-mas-de-6000-ninos-ninas-y&text=:/noticias/bienestar-familiar-fortalece-la-atencion-integral-para-mas-de-6000-ninos-ninas-y&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-fortalece-la-atencion-integral-para-mas-de-6000-ninos-ninas-y "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar restablece derechos de tres adolescentes protegidas ante riesgo de reclutamiento](https://www.icbf.gov.co/sites/default/files/6a1d41fe-8afc-4c09-b0d6-33d4b1c68f28.jpeg)](https://www.icbf.gov.co/bienestar-familiar-restablece-derechos-de-tres-adolescentes-protegidas-ante-riesgo-de-reclutamiento)
+
+Caquetá, Florencia25 Febrero, 2026
+
+### [Bienestar Familiar restablece derechos de tres adolescentes protegidas ante riesgo de reclutamiento](https://www.icbf.gov.co/bienestar-familiar-restablece-derechos-de-tres-adolescentes-protegidas-ante-riesgo-de-reclutamiento "consultar noticia: Bienestar Familiar restablece derechos de tres adolescentes protegidas ante riesgo de reclutamiento ")
+
+El Instituto Colombiano de Bienestar Familiar (ICBF) abrió proceso administrativo de restablecimiento de derechos a tres...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/bienestar-familiar-restablece-derechos-de-tres-adolescentes-protegidas-ante-riesgo-de-reclutamiento&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/bienestar-familiar-restablece-derechos-de-tres-adolescentes-protegidas-ante-riesgo-de-reclutamiento&text=:/bienestar-familiar-restablece-derechos-de-tres-adolescentes-protegidas-ante-riesgo-de-reclutamiento&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/bienestar-familiar-restablece-derechos-de-tres-adolescentes-protegidas-ante-riesgo-de-reclutamiento "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Familias de Sarrutsira fortalecen su seguridad alimentaria con proyecto caprino impulsado por Bienestar Familiar](https://www.icbf.gov.co/sites/default/files/IMG_4927.JPG)](https://www.icbf.gov.co/noticias/familias-de-sarrutsira-fortalecen-su-seguridad-alimentaria-con-proyecto-caprino-impulsado)
+
+La Guajira, Uribia25 Febrero, 2026
+
+### [Familias de Sarrutsira fortalecen su seguridad alimentaria con proyecto caprino impulsado por Bienestar Familiar](https://www.icbf.gov.co/noticias/familias-de-sarrutsira-fortalecen-su-seguridad-alimentaria-con-proyecto-caprino-impulsado "consultar noticia: Familias de Sarrutsira fortalecen su seguridad alimentaria con proyecto caprino impulsado por Bienestar Familiar ")
+
+En el marco de las acciones para prevenir la desnutrición y fortalecer la seguridad alimentaria en el territorio, el Bienestar Familiar, a través del...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/familias-de-sarrutsira-fortalecen-su-seguridad-alimentaria-con-proyecto-caprino-impulsado&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/familias-de-sarrutsira-fortalecen-su-seguridad-alimentaria-con-proyecto-caprino-impulsado&text=:/noticias/familias-de-sarrutsira-fortalecen-su-seguridad-alimentaria-con-proyecto-caprino-impulsado&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/familias-de-sarrutsira-fortalecen-su-seguridad-alimentaria-con-proyecto-caprino-impulsado "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar fortalece la atención a la desnutrición infantil con 23 Centros de Recuperación Nutricional Comunitarios en 2026](https://www.icbf.gov.co/sites/default/files/Nutricio%CC%81n.jpg)](https://www.icbf.gov.co/noticias/bienestar-familiar-fortalece-la-atencion-la-desnutricion-infantil-con-23-centros-de)
+
+Bogotá, D. C.25 Febrero, 2026
+
+### [Bienestar Familiar fortalece la atención a la desnutrición infantil con 23 Centros de Recuperación Nutricional Comunitarios en 2026](https://www.icbf.gov.co/noticias/bienestar-familiar-fortalece-la-atencion-la-desnutricion-infantil-con-23-centros-de "consultar noticia: Bienestar Familiar fortalece la atención a la desnutrición infantil con 23 Centros de Recuperación Nutricional Comunitarios en 2026 ")
+
+El Bienestar Familiar continúa fortaleciendo su compromiso con el derecho humano a la alimentación y a la vida de las niñas y los niños del país,...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-fortalece-la-atencion-la-desnutricion-infantil-con-23-centros-de&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-fortalece-la-atencion-la-desnutricion-infantil-con-23-centros-de&text=:/noticias/bienestar-familiar-fortalece-la-atencion-la-desnutricion-infantil-con-23-centros-de&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-fortalece-la-atencion-la-desnutricion-infantil-con-23-centros-de "Enviar email")
+
+[Destacado](https://www.icbf.gov.co/destacado)
+
+[![Bienestar Familiar fortalece la atención inmediata a niñas, niños y adolescentes en Necoclí con la modalidad de Centro de Emergencia](https://www.icbf.gov.co/sites/default/files/Necocli%CC%81%20%282%29.jpeg)](https://www.icbf.gov.co/noticias/bienestar-familiar-fortalece-la-atencion-inmediata-ninas-ninos-y-adolescentes-en-necocli)
+
+Chocó, Necocli25 Febrero, 2026
+
+### [Bienestar Familiar fortalece la atención inmediata a niñas, niños y adolescentes en Necoclí con la modalidad de Centro de Emergencia](https://www.icbf.gov.co/noticias/bienestar-familiar-fortalece-la-atencion-inmediata-ninas-ninos-y-adolescentes-en-necocli "consultar noticia: Bienestar Familiar fortalece la atención inmediata a niñas, niños y adolescentes en Necoclí con la modalidad de Centro de Emergencia ")
+
+El Bienestar Familiar fortalece la atención integral y la protección de niñas, niños y adolescentes en el municipio de Necoclí, Antioquia, mediante...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-fortalece-la-atencion-inmediata-ninas-ninos-y-adolescentes-en-necocli&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-fortalece-la-atencion-inmediata-ninas-ninos-y-adolescentes-en-necocli&text=:/noticias/bienestar-familiar-fortalece-la-atencion-inmediata-ninas-ninos-y-adolescentes-en-necocli&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-fortalece-la-atencion-inmediata-ninas-ninos-y-adolescentes-en-necocli "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Jóvenes del Sistema de Responsabilidad Penal para Adolescentes lideraron jornada restaurativa con personas en condición de vulnerabilidad  Ibagué, 23 de febrero de 2025.   En un ejercicio cargado de sentido humano y compromiso social, se llevó a cabo una actividad con enfoque restaurativo en el Hogar de Paso San Francisco de Asís, en Ibagué, Tolima, donde jóvenes de las modalidades privativas de la libertad del Sistema de Responsabilidad Penal para Adolescentes (SRPA) protagonizaron un encuentro con adultos](https://www.icbf.gov.co/sites/default/files/IMG_3470.jpeg)](https://www.icbf.gov.co/jovenes-del-sistema-de-responsabilidad-penal-para-adolescentes-lideraron-jornada-restaurativa-con)
+
+Tolima, Ibagué25 Febrero, 2026
+
+### [Jóvenes del Sistema de Responsabilidad Penal para Adolescentes lideraron jornada restaurativa con personas en condición de vulnerabilidad](https://www.icbf.gov.co/jovenes-del-sistema-de-responsabilidad-penal-para-adolescentes-lideraron-jornada-restaurativa-con "consultar noticia: Jóvenes del Sistema de Responsabilidad Penal para Adolescentes lideraron jornada restaurativa con personas en condición de vulnerabilidad ")
+
+En un ejercicio cargado de sentido humano y compromiso social, se llevó a cabo una actividad con enfoque restaurativo en el...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/jovenes-del-sistema-de-responsabilidad-penal-para-adolescentes-lideraron-jornada-restaurativa-con&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/jovenes-del-sistema-de-responsabilidad-penal-para-adolescentes-lideraron-jornada-restaurativa-con&text=:/jovenes-del-sistema-de-responsabilidad-penal-para-adolescentes-lideraron-jornada-restaurativa-con&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/jovenes-del-sistema-de-responsabilidad-penal-para-adolescentes-lideraron-jornada-restaurativa-con "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![En un territorio donde las distancias son largas y las condiciones geográficas imponen grandes desafíos, el Estado llega a tiempo para actuar. Entre 2022 y 2025, el Bienestar Familiar salvó la vida de más de 800 niñas y niños a través de los Centros de Recuperación Nutricional Comunitarios y actuó a tiempo, previniendo más de 22.000 casos de desnutrición aguda en el departamento de La Guajira, a través de programas y el Servicio Integrado de Atención y Prevención de la Desnutrición.](https://www.icbf.gov.co/sites/default/files/Captura%20de%20pantalla%202026-02-24%20135153.png)](https://www.icbf.gov.co/noticias/mas-de-800-vidas-salvadas-y-22000-casos-prevenidos-asi-actua-bienestar-familiar-contra-la)
+
+La Guajira, Riohacha24 Febrero, 2026
+
+### [Más de 800 vidas salvadas y 22.000 casos prevenidos: así actúa Bienestar Familiar contra la desnutrición en La Guajira](https://www.icbf.gov.co/noticias/mas-de-800-vidas-salvadas-y-22000-casos-prevenidos-asi-actua-bienestar-familiar-contra-la "consultar noticia: Más de 800 vidas salvadas y 22.000 casos prevenidos: así actúa Bienestar Familiar contra la desnutrición en La Guajira ")
+
+En un territorio donde las distancias son largas y las condiciones geográficas imponen grandes desafíos, el Estado llega a tiempo para actuar. Entre...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/mas-de-800-vidas-salvadas-y-22000-casos-prevenidos-asi-actua-bienestar-familiar-contra-la&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/mas-de-800-vidas-salvadas-y-22000-casos-prevenidos-asi-actua-bienestar-familiar-contra-la&text=:/noticias/mas-de-800-vidas-salvadas-y-22000-casos-prevenidos-asi-actua-bienestar-familiar-contra-la&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/mas-de-800-vidas-salvadas-y-22000-casos-prevenidos-asi-actua-bienestar-familiar-contra-la "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar reafirma la legalidad y transparencia en su actuación contractual](https://www.icbf.gov.co/sites/default/files/9337_0.jpg)](https://www.icbf.gov.co/noticias/bienestar-familiar-reafirma-la-legalidad-y-transparencia-en-su-actuacion-contractual)
+
+Bogotá, D. C.23 Febrero, 2026
+
+### [Bienestar Familiar reafirma la legalidad y transparencia en su actuación contractual](https://www.icbf.gov.co/noticias/bienestar-familiar-reafirma-la-legalidad-y-transparencia-en-su-actuacion-contractual "consultar noticia: Bienestar Familiar reafirma la legalidad y transparencia en su actuación contractual ")
+
+Frente a la información difundida públicamente en relación con la suscripción de contratos durante la vigencia de la Ley 996 de 2005 (Ley de...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-reafirma-la-legalidad-y-transparencia-en-su-actuacion-contractual&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-reafirma-la-legalidad-y-transparencia-en-su-actuacion-contractual&text=:/noticias/bienestar-familiar-reafirma-la-legalidad-y-transparencia-en-su-actuacion-contractual&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-reafirma-la-legalidad-y-transparencia-en-su-actuacion-contractual "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Más de 1.500 familias de La Pista avanzan hacia el Hambre Cero y fortalecen su seguridad alimentaria](https://www.icbf.gov.co/sites/default/files/IMG_3325.jpeg)](https://www.icbf.gov.co/noticias/mas-de-1500-familias-de-la-pista-avanzan-hacia-el-hambre-cero-y-fortalecen-su-seguridad)
+
+La Guajira, Maicao22 Febrero, 2026
+
+### [Más de 1.500 familias de La Pista avanzan hacia el Hambre Cero y fortalecen su seguridad alimentaria](https://www.icbf.gov.co/noticias/mas-de-1500-familias-de-la-pista-avanzan-hacia-el-hambre-cero-y-fortalecen-su-seguridad "consultar noticia: Más de 1.500 familias de La Pista avanzan hacia el Hambre Cero y fortalecen su seguridad alimentaria ")
+
+Con la entrega de 1.564 canastas alimentarias y 3.128 bolsas de Bienestarina Mamá® con Chontaduro de 900 gramos, hoy finaliza...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/mas-de-1500-familias-de-la-pista-avanzan-hacia-el-hambre-cero-y-fortalecen-su-seguridad&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/mas-de-1500-familias-de-la-pista-avanzan-hacia-el-hambre-cero-y-fortalecen-su-seguridad&text=:/noticias/mas-de-1500-familias-de-la-pista-avanzan-hacia-el-hambre-cero-y-fortalecen-su-seguridad&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/mas-de-1500-familias-de-la-pista-avanzan-hacia-el-hambre-cero-y-fortalecen-su-seguridad "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![En el Día Nacional del Defensor y la Defensora de Familia, el Bienestar Familiar reafirma su compromiso para fortalecer la capacidad institucional en favor de la niñez](https://www.icbf.gov.co/sites/default/files/IMG_3307.jpeg)](https://www.icbf.gov.co/noticias/en-el-dia-nacional-del-defensor-y-la-defensora-de-familia-el-bienestar-familiar-reafirma)
+
+Bogotá, D. C.21 Febrero, 2026
+
+### [En el Día Nacional del Defensor y la Defensora de Familia, el Bienestar Familiar reafirma su compromiso para fortalecer la capacidad institucional en favor de la niñez](https://www.icbf.gov.co/noticias/en-el-dia-nacional-del-defensor-y-la-defensora-de-familia-el-bienestar-familiar-reafirma "consultar noticia: En el Día Nacional del Defensor y la Defensora de Familia, el Bienestar Familiar reafirma su compromiso para fortalecer la capacidad institucional en favor de la niñez ")
+
+•      **Con el Decreto 915 de 2025 se crearon 113 nuevas defensorías de...**
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/en-el-dia-nacional-del-defensor-y-la-defensora-de-familia-el-bienestar-familiar-reafirma&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/en-el-dia-nacional-del-defensor-y-la-defensora-de-familia-el-bienestar-familiar-reafirma&text=:/noticias/en-el-dia-nacional-del-defensor-y-la-defensora-de-familia-el-bienestar-familiar-reafirma&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/en-el-dia-nacional-del-defensor-y-la-defensora-de-familia-el-bienestar-familiar-reafirma "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Deysi Murillo Moreno, nueva directora (e) de la Regional Cundinamarca con raíces en la atención a la primera infancia](https://www.icbf.gov.co/sites/default/files/WhatsApp%20Image%202026-02-05%20at%2013.11.46.jpeg)](https://www.icbf.gov.co/deysi-murillo-moreno-nueva-directora-e-de-la-regional-cundinamarca-con-raices-en-la-atencion-la)
+
+Bogotá, D. C.20 Febrero, 2026
+
+### [Deysi Murillo Moreno, nueva directora (e) de la Regional Cundinamarca con raíces en la atención a la primera infancia](https://www.icbf.gov.co/deysi-murillo-moreno-nueva-directora-e-de-la-regional-cundinamarca-con-raices-en-la-atencion-la "consultar noticia: Deysi Murillo Moreno, nueva directora (e) de la Regional Cundinamarca con raíces en la atención a la primera infancia ")
+
+Deysi Katerinne Murillo Moreno fue posesionada como nueva directora encargada de la Regional Cundinamarca, destacando su trayectoria en el trabajo...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/deysi-murillo-moreno-nueva-directora-e-de-la-regional-cundinamarca-con-raices-en-la-atencion-la&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/deysi-murillo-moreno-nueva-directora-e-de-la-regional-cundinamarca-con-raices-en-la-atencion-la&text=:/deysi-murillo-moreno-nueva-directora-e-de-la-regional-cundinamarca-con-raices-en-la-atencion-la&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/deysi-murillo-moreno-nueva-directora-e-de-la-regional-cundinamarca-con-raices-en-la-atencion-la "Enviar email")
+
+[Nacional](https://www.icbf.gov.co/nacional)
+
+[![Bienestar Familiar alerta sobre invitaciones fraudulentas relacionadas con supuestos procesos de contratación](https://www.icbf.gov.co/sites/default/files/IMG_3270.jpeg)](https://www.icbf.gov.co/bienestar-familiar-alerta-sobre-invitaciones-fraudulentas-relacionadas-con-supuestos-procesos-de)
+
+Bogotá, D. C.19 Febrero, 2026
+
+### [Bienestar Familiar alerta sobre invitaciones fraudulentas relacionadas con supuestos procesos de contratación](https://www.icbf.gov.co/bienestar-familiar-alerta-sobre-invitaciones-fraudulentas-relacionadas-con-supuestos-procesos-de "consultar noticia: Bienestar Familiar alerta sobre invitaciones fraudulentas relacionadas con supuestos procesos de contratación ")
+
+Para proteger a nuestros usuarios y proveedores, Bienestar Familiar advierte sobre la circulación de invitaciones falsas que...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/bienestar-familiar-alerta-sobre-invitaciones-fraudulentas-relacionadas-con-supuestos-procesos-de&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/bienestar-familiar-alerta-sobre-invitaciones-fraudulentas-relacionadas-con-supuestos-procesos-de&text=:/bienestar-familiar-alerta-sobre-invitaciones-fraudulentas-relacionadas-con-supuestos-procesos-de&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/bienestar-familiar-alerta-sobre-invitaciones-fraudulentas-relacionadas-con-supuestos-procesos-de "Enviar email")
+
+[Destacado](https://www.icbf.gov.co/destacado)
+
+[![El cambio se consolida en el Bienestar Familiar](https://www.icbf.gov.co/sites/default/files/IMG_3261.jpeg)](https://www.icbf.gov.co/noticias/el-cambio-se-consolida-en-el-bienestar-familiar)
+
+Bogotá, D. C.18 Febrero, 2026
+
+### [El cambio se consolida en el Bienestar Familiar](https://www.icbf.gov.co/noticias/el-cambio-se-consolida-en-el-bienestar-familiar "consultar noticia: El cambio se consolida en el Bienestar Familiar ")
+
+**Formalización histórica y gestión directa fortalecen el Sistema del Cuidado**
+
+...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/el-cambio-se-consolida-en-el-bienestar-familiar&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/el-cambio-se-consolida-en-el-bienestar-familiar&text=:/noticias/el-cambio-se-consolida-en-el-bienestar-familiar&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/el-cambio-se-consolida-en-el-bienestar-familiar "Enviar email")
+
+[Destacado](https://www.icbf.gov.co/destacado)
+
+[![Gobierno Nacional avanza en la formalización laboral de madres comunitarias, sustitutas y trabajadoras de hogares infantiles](https://www.icbf.gov.co/sites/default/files/IMG_3260_0.jpeg)](https://www.icbf.gov.co/noticias/gobierno-nacional-avanza-en-la-formalizacion-laboral-de-madres-comunitarias-sustitutas-y)
+
+Bogotá, D. C.18 Febrero, 2026
+
+### [Gobierno Nacional avanza en la formalización laboral de madres comunitarias, sustitutas y trabajadoras de hogares infantiles](https://www.icbf.gov.co/noticias/gobierno-nacional-avanza-en-la-formalizacion-laboral-de-madres-comunitarias-sustitutas-y "consultar noticia: Gobierno Nacional avanza en la formalización laboral de madres comunitarias, sustitutas y trabajadoras de hogares infantiles ")
+
+- 2.300 madres comunitarias ya son trabajadoras oficiales tras más de 40 años de espera; el proceso continuará hasta 2029...
+
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/gobierno-nacional-avanza-en-la-formalizacion-laboral-de-madres-comunitarias-sustitutas-y&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/gobierno-nacional-avanza-en-la-formalizacion-laboral-de-madres-comunitarias-sustitutas-y&text=:/noticias/gobierno-nacional-avanza-en-la-formalizacion-laboral-de-madres-comunitarias-sustitutas-y&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/gobierno-nacional-avanza-en-la-formalizacion-laboral-de-madres-comunitarias-sustitutas-y "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![De madre comunitaria a directora regional, Ibeth Almario Mena asume el liderazgo del Bienestar Familiar en Córdoba](https://www.icbf.gov.co/sites/default/files/IBETH.jpeg)](https://www.icbf.gov.co/noticias/de-madre-comunitaria-directora-regional-ibeth-almario-mena-asume-el-liderazgo-del)
+
+Córdoba, Montería18 Febrero, 2026
+
+### [De madre comunitaria a directora regional, Ibeth Almario Mena asume el liderazgo del Bienestar Familiar en Córdoba](https://www.icbf.gov.co/noticias/de-madre-comunitaria-directora-regional-ibeth-almario-mena-asume-el-liderazgo-del "consultar noticia: De madre comunitaria a directora regional, Ibeth Almario Mena asume el liderazgo del Bienestar Familiar en Córdoba ")
+
+El Bienestar Familiar oficializó el nombramiento de Ibeth del Carmen Almario Mena como directora regional en Córdoba,...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/de-madre-comunitaria-directora-regional-ibeth-almario-mena-asume-el-liderazgo-del&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/de-madre-comunitaria-directora-regional-ibeth-almario-mena-asume-el-liderazgo-del&text=:/noticias/de-madre-comunitaria-directora-regional-ibeth-almario-mena-asume-el-liderazgo-del&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/de-madre-comunitaria-directora-regional-ibeth-almario-mena-asume-el-liderazgo-del "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Magdalena levanta las Manos Rojas para decir NO al reclutamiento infantil](https://www.icbf.gov.co/sites/default/files/IMG_3230.jpeg)](https://www.icbf.gov.co/noticias/magdalena-levanta-las-manos-rojas-para-decir-no-al-reclutamiento-infantil)
+
+Magdalena, Santa Marta17 Febrero, 2026
+
+### [Magdalena levanta las Manos Rojas para decir NO al reclutamiento infantil](https://www.icbf.gov.co/noticias/magdalena-levanta-las-manos-rojas-para-decir-no-al-reclutamiento-infantil "consultar noticia: Magdalena levanta las Manos Rojas para decir NO al reclutamiento infantil ")
+
+En el Día de las Manos Rojas, Bienestar Magdalena se unió a esta conmemoración con una jornada de sensibilización enfocada en...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/magdalena-levanta-las-manos-rojas-para-decir-no-al-reclutamiento-infantil&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/magdalena-levanta-las-manos-rojas-para-decir-no-al-reclutamiento-infantil&text=:/noticias/magdalena-levanta-las-manos-rojas-para-decir-no-al-reclutamiento-infantil&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/magdalena-levanta-las-manos-rojas-para-decir-no-al-reclutamiento-infantil "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![.](https://www.icbf.gov.co/sites/default/files/IMG_0006_3.jpeg)](https://www.icbf.gov.co/noticias/gobierno-nacional-y-asociacion-de-consejos-comunitarios-del-norte-del-cauca-instalan-mesa)
+
+Bogotá, D. C.16 Febrero, 2026
+
+### [Gobierno Nacional y Asociación de Consejos Comunitarios del Norte del Cauca instalan mesa de diálogo](https://www.icbf.gov.co/noticias/gobierno-nacional-y-asociacion-de-consejos-comunitarios-del-norte-del-cauca-instalan-mesa "consultar noticia: Gobierno Nacional y Asociación de Consejos Comunitarios del Norte del Cauca instalan mesa de diálogo ")
+
+Bienestar Familiar participa de la mesa de diálogo con la Asociación de Consejos Comunitarios del Norte del Cauca (ACONC) para...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/gobierno-nacional-y-asociacion-de-consejos-comunitarios-del-norte-del-cauca-instalan-mesa&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/gobierno-nacional-y-asociacion-de-consejos-comunitarios-del-norte-del-cauca-instalan-mesa&text=:/noticias/gobierno-nacional-y-asociacion-de-consejos-comunitarios-del-norte-del-cauca-instalan-mesa&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/gobierno-nacional-y-asociacion-de-consejos-comunitarios-del-norte-del-cauca-instalan-mesa "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar refuerza atención integral en Tierralta para proteger a familias afectadas por la emergencia](https://www.icbf.gov.co/sites/default/files/Tierralta.jpeg)](https://www.icbf.gov.co/noticias/bienestar-familiar-refuerza-atencion-integral-en-tierralta-para-proteger-familias)
+
+Córdoba, Tierralta16 Febrero, 2026
+
+### [Bienestar Familiar refuerza atención integral en Tierralta para proteger a familias afectadas por la emergencia](https://www.icbf.gov.co/noticias/bienestar-familiar-refuerza-atencion-integral-en-tierralta-para-proteger-familias "consultar noticia: Bienestar Familiar refuerza atención integral en Tierralta para proteger a familias afectadas por la emergencia ")
+
+- Despliegue de unidades móviles y entrega de apoyo nutricional priorizan la protección de la niñez en alojamientos temporales....
+
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-refuerza-atencion-integral-en-tierralta-para-proteger-familias&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-refuerza-atencion-integral-en-tierralta-para-proteger-familias&text=:/noticias/bienestar-familiar-refuerza-atencion-integral-en-tierralta-para-proteger-familias&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-refuerza-atencion-integral-en-tierralta-para-proteger-familias "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Madres comunitarias del Tolima se formalizan como trabajadoras oficiales del Bienestar Familiar](https://www.icbf.gov.co/sites/default/files/Madres%20comunitarias%20Tolima.jpeg)](https://www.icbf.gov.co/noticias/madres-comunitarias-del-tolima-se-formalizan-como-trabajadoras-oficiales-del-bienestar)
+
+Tolima, Ibagué16 Febrero, 2026
+
+### [Madres comunitarias del Tolima se formalizan como trabajadoras oficiales del Bienestar Familiar](https://www.icbf.gov.co/noticias/madres-comunitarias-del-tolima-se-formalizan-como-trabajadoras-oficiales-del-bienestar "consultar noticia: Madres comunitarias del Tolima se formalizan como trabajadoras oficiales del Bienestar Familiar ")
+
+En un paso significativo para la Regional Tolima, 28 madres comunitarias fueron formalizadas como trabajadoras oficiales del Bienestar Familiar, en...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/madres-comunitarias-del-tolima-se-formalizan-como-trabajadoras-oficiales-del-bienestar&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/madres-comunitarias-del-tolima-se-formalizan-como-trabajadoras-oficiales-del-bienestar&text=:/noticias/madres-comunitarias-del-tolima-se-formalizan-como-trabajadoras-oficiales-del-bienestar&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/madres-comunitarias-del-tolima-se-formalizan-como-trabajadoras-oficiales-del-bienestar "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Manos rojas que no quieren guerra se levantan en La Guajira](https://www.icbf.gov.co/sites/default/files/cronica%20manos%20rojas%203.jpg)](https://www.icbf.gov.co/noticias/manos-rojas-que-no-quieren-guerra-se-levantan-en-la-guajira)
+
+La Guajira, Riohacha16 Febrero, 2026
+
+### [Manos rojas que no quieren guerra se levantan en La Guajira](https://www.icbf.gov.co/noticias/manos-rojas-que-no-quieren-guerra-se-levantan-en-la-guajira "consultar noticia: Manos rojas que no quieren guerra se levantan en La Guajira ")
+
+El viento de la tarde movía una bandera distinta: blanca, completamente blanca, pero atravesada por decenas de manos rojas estampadas con determinación. Se...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/manos-rojas-que-no-quieren-guerra-se-levantan-en-la-guajira&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/manos-rojas-que-no-quieren-guerra-se-levantan-en-la-guajira&text=:/noticias/manos-rojas-que-no-quieren-guerra-se-levantan-en-la-guajira&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/manos-rojas-que-no-quieren-guerra-se-levantan-en-la-guajira "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Bienestar Familiar lanza Modelo Propio de Atención Intercultural en Sibundoy para fortalecer la niñez kamëntsá e inga ](https://www.icbf.gov.co/sites/default/files/IMG_3160.jpeg)](https://www.icbf.gov.co/noticias/bienestar-familiar-lanza-modelo-propio-de-atencion-intercultural-en-sibundoy-para)
+
+Putumayo, Sibundoy13 Febrero, 2026
+
+### [Bienestar Familiar lanza Modelo Propio de Atención Intercultural en Sibundoy para fortalecer la niñez kamëntsá e inga](https://www.icbf.gov.co/noticias/bienestar-familiar-lanza-modelo-propio-de-atencion-intercultural-en-sibundoy-para "consultar noticia: Bienestar Familiar lanza Modelo Propio de Atención Intercultural en Sibundoy para fortalecer la niñez kamëntsá e inga  ")
+
+En la vereda Las Cochas, municipio de Sibundoy, Bienestar Familiar presentó oficialmente el Modelo Propio de Atención...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/bienestar-familiar-lanza-modelo-propio-de-atencion-intercultural-en-sibundoy-para&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/bienestar-familiar-lanza-modelo-propio-de-atencion-intercultural-en-sibundoy-para&text=:/noticias/bienestar-familiar-lanza-modelo-propio-de-atencion-intercultural-en-sibundoy-para&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/bienestar-familiar-lanza-modelo-propio-de-atencion-intercultural-en-sibundoy-para "Enviar email")
+
+[Regional](https://www.icbf.gov.co/regional)
+
+[![Magdalena tiene nueva directora del Bienestar Familiar y es madre comunitaria](https://www.icbf.gov.co/sites/default/files/Directora%20regional%20.jpeg)](https://www.icbf.gov.co/noticias/magdalena-tiene-nueva-directora-del-bienestar-familiar-y-es-madre-comunitaria)
+
+Magdalena, Santa Marta13 Febrero, 2026
+
+### [Magdalena tiene nueva directora del Bienestar Familiar y es madre comunitaria](https://www.icbf.gov.co/noticias/magdalena-tiene-nueva-directora-del-bienestar-familiar-y-es-madre-comunitaria "consultar noticia: Magdalena tiene nueva directora del Bienestar Familiar y es madre comunitaria ")
+
+Con una trayectoria construida desde el trabajo comunitario y la educación, **Ingrid Isabel Correa Pineda** fue designada como nueva directora...
+
+- [![Compartir en Facebook](https://www.icbf.gov.co/sites/default/files/facebook_0.png)](https://www.facebook.com/sharer/sharer.php?u=/noticias/magdalena-tiene-nueva-directora-del-bienestar-familiar-y-es-madre-comunitaria&quote= "Compartir")
+- [![Tweet](https://www.icbf.gov.co/sites/default/files/twitter_0.png)](https://twitter.com/intent/tweet?source=/noticias/magdalena-tiene-nueva-directora-del-bienestar-familiar-y-es-madre-comunitaria&text=:/noticias/magdalena-tiene-nueva-directora-del-bienestar-familiar-y-es-madre-comunitaria&via=ICBFColombia "Tweet")
+- [![Enviar email](https://www.icbf.gov.co/sites/default/files/email_0.png)](mailto:?subject=&body=:/noticias/magdalena-tiene-nueva-directora-del-bienestar-familiar-y-es-madre-comunitaria "Enviar email")
+
+#### Paginación
+
+- [Página\\
+1](https://www.icbf.gov.co/noticias?page=0 "Página actual")
+- [Página\\
+2](https://www.icbf.gov.co/noticias?page=1 "Ir a la página 2")
+- [Página\\
+3](https://www.icbf.gov.co/noticias?page=2 "Ir a la página 3")
+- [Página\\
+4](https://www.icbf.gov.co/noticias?page=3 "Ir a la página 4")
+- [Página\\
+5](https://www.icbf.gov.co/noticias?page=4 "Ir a la página 5")
+- …
+- [Siguiente páginaSiguiente >](https://www.icbf.gov.co/noticias?page=1 "Ir a la página siguiente")
+- [Última páginaÚltimo »](https://www.icbf.gov.co/noticias?page=51 "Ir a la última página")
+
+## Publicaciones: Fallos de Tutela
+
+- [ACCION DE TUTELA - VALENTINA OSPINA ARCILA](https://www.icbf.gov.co/system/files/admisorio_demanda_publicacion_web.pdf "admisorio_demanda_publicacion_web.pdf")
+
+- [ACCION DE TUTELA - JORGE ALBERTO BARRIOS PARRA](https://www.icbf.gov.co/system/files/01escritotutela_merged.pdf "01escritotutela_merged.pdf")
+
+- [ACCION DE TUTELA - DORISSOL CÁRDENAS MEJÍA](https://www.icbf.gov.co/system/files/auto_de_admision_y_demanda.pdf "auto_de_admision_y_demanda.pdf")
+
+- [ACCION DE TUTELA - YINA ALEJANDRA RIVERA GUERRERO](https://www.icbf.gov.co/system/files/ilovepdf_merged_3_2.pdf "ilovepdf_merged_3.pdf")
+
+- [ACCION DE TUTELA - ANDERSON TABARES TABARES](https://www.icbf.gov.co/system/files/cr-20250731083155-18389_2.pdf "cr-20250731083155-18389_2.pdf")
+
+- [ACCION DE TUTELA - KELLY JOHANA MONTES](https://www.icbf.gov.co/system/files/radicado_2025-10046-00_ordena_vinculacion_lista_de_elegibles_opec_166312.pdf "radicado_2025-10046-00_ordena_vinculacion_lista_de_elegibles_opec_166312.pdf")
+
+- [ACCION DE TUTELA - ANDERSON TABARES](https://www.icbf.gov.co/system/files/admisorio.pdf "admisorio.pdf")
+
+- [ACCION DE TUTELA - ADRIANA PAOLA CORTÉS ROJAS](https://www.icbf.gov.co/system/files/auto_de_admision_y_escrito_de_tutela_driana_paola_cortes_rojas.pdf "auto_de_admision_y_escrito_de_tutela_driana_paola_cortes_rojas.pdf")
+
+- [tutela\_-\_auto\_obezcase\_y\_cumplase.pdf](https://www.icbf.gov.co/system/files/tutela_-_auto_obezcase_y_cumplase.pdf)
+
+- [ACCION DE TUTELA - AURA YESSENIA RINCÓN ORTEGA.](https://www.icbf.gov.co/system/files/15001333300120250007101_29_sentenciadese_20250007101nombramie_0_20250611160934212_tagrabardetallereserva133942209306098913.pdf "15001333300120250007101_29_sentenciadese_20250007101nombramie_0_20250611160934212_tagrabardetallereserva133942209306098913.pdf")
+
+- [ACCION DE TUTELA - MARIA LIZETH JAMANOY TABLA](https://www.icbf.gov.co/system/files/auto_admisorio_y_escrito_de_tutela_de_maria_jamanoy.pdf "auto_admisorio_y_escrito_de_tutela_de_maria_jamanoy.pdf")
+
+- [ACCION DE TUTELA - KAREN DANIELA MENDOZA ACEVEDO](https://www.icbf.gov.co/system/files/fallo2025-00065_cnsc_e_icbf.pdf "fallo2025-00065_cnsc_e_icbf.pdf")
+
+
+#### Paginación
+
+- [Página\\
+1](https://www.icbf.gov.co/noticias?page=0 "Página actual")
+- [Página\\
+2](https://www.icbf.gov.co/noticias?page=1 "Ir a la página 2")
+- [Página\\
+3](https://www.icbf.gov.co/noticias?page=2 "Ir a la página 3")
+- [Página\\
+4](https://www.icbf.gov.co/noticias?page=3 "Ir a la página 4")
+- [Página\\
+5](https://www.icbf.gov.co/noticias?page=4 "Ir a la página 5")
+- …
+- [Siguiente páginaSiguiente >](https://www.icbf.gov.co/noticias?page=1 "Ir a la página siguiente")
+- [Última páginaÚltimo »](https://www.icbf.gov.co/noticias?page=51 "Ir a la última página")
+
+## Líneas de Atención
+
+![imagen distintiva linea 141](https://www.icbf.gov.co/sites/default/files/imagen-linea141b_09.png)
+
+#### [Línea 141](tel:141)
+
+Línea gratuita nacional para protección, emergencia y orientación. Disponible las 24 horas.
+
+![icono decorativo linea nacional](https://www.icbf.gov.co/sites/default/files/icon-lineas_v1_15.png)
+
+#### Línea gratuita nacional ICBF  018000 91 80 80
+
+Disponible lunes a viernes 8:00 am a 5:00 pm
+
+![icono decorativo pbx](https://www.icbf.gov.co/sites/default/files/icon-lineas_v1_12.png)
+
+#### PBX: [+57 601 4377630](tel:+576014377630)
+
+Disponible de lunes a viernes de 8:00 a.m. a 5:00 p.m.
+
+## Oferta Institucional
+
+Consulta información de trámites, programas y servicios de bienestar
+
+[Consultar oferta ir](https://www.icbf.gov.co/portafolio-de-servicios-icbf "clic para consultar oferta institucional")
+
+## Puntos de Atención
+
+Direcciones regionales y centros zonales para atención y orientación
+
+[Consultar datos de contacto pin](https://www.icbf.gov.co/puntos-atencion "clic para consultar datos de contacto en puntos de servicio")
+
+[![logo GOVCO](https://www.icbf.gov.co/sites/default/files/logo_footer.png)](https://www.gov.co/ "GOVCO")
+
+[![logo CO Colombia](https://www.icbf.gov.co/sites/default/files/logo_co_footer.png)](https://www.colombia.co/ "Colombia")
+
+#### Instituto Colombiano de Bienestar Familiar (ICBF)
+
+Dirección Sede de la Dirección General: Av. Carrera 68 # 64C - 75 Bogotá, Colombia.
+
+Código Postal: 111061
+
+NIT: 899999.239-2
+
+Horario de Atención: Lunes a viernes de 8:00 a.m. a 5:00 p.m.
+
+[Consultar Entidades del Sector de la Inclusión Social y Reconciliación.](https://www.icbf.gov.co/instituto/entidades-sector "Haz clic para consultar Entidades Sector Inclusión Social")
+
+- [@ICBFColombia](https://twitter.com/icbfcolombia "Enlace a Twitter")
+- [icbfcolombiaoficial](https://www.instagram.com/icbfcolombiaoficial/ "Enlace a Instagram")
+- [ICBFColombia](https://www.facebook.com/ICBFColombia "Enlace a Facebook")
+- [ICBFInstitucionalICBF](https://www.youtube.com/user/ICBFInstitucional "Enlace a Youtube")
+
+#### Contacto
+
+- Teléfono Conmutador: +57 601 437 76 30, Disponible lunes a viernes de 8:00 a.m. a 5:00 p.m.
+- Línea gratuita nacional ICBF: 01 8000 91 80 80, Disponible lunes a viernes 8:00 am a 5:00 pm..
+- Línea 141: Línea gratuita nacional para protección, emergencia y orientación. Disponible las 24 horas.
+- Linea Anticorrupción : 01 8000 91 80 80, opción 4.
+- Correo Atención al Ciudadano: [atencionalciudadano@icbf.gov.co](https://www.icbf.gov.co/mensaje-de-confirmacion "Escribir al Correo de Atención al Ciudadano")
+- Correo Notificaciones Judiciales ICBF: [Notificaciones.Judiciales@icbf.gov.co](mailto:Notificaciones.Judiciales@icbf.gov.co "Escribir al correo Notificaciones Judiciales ICBF")
+- [Política de Seguridad y Privacidad de la Información, Seguridad Digital y Continuidad de la Operación](https://www.icbf.gov.co/sites/default/files/3248_-_adopta_politica_de_seguridad_y_privacidad_de_la_informacion_ciberseguridad.pdf "Clic para consultar Políticas de Seguridad ICBF")
+
+Consultar también: [Políticas del Sistema Integrado de Gestión ICBF](https://www.icbf.gov.co/instituto/sistema-integrado-gestion "Clic para consultar Políticas SIGE")
+- [Política de Privacidad y Condiciones de Uso](https://www.icbf.gov.co/instituto/politicas-portal "Clic para consultar Política de Privacidad y Condiciones de Uso ICBF")
+- [Política de Tratamiento de Datos Personales](https://www.icbf.gov.co/sites/default/files/politica_de_tratamiento_de_datos_personales_0.pdf "Clic para consultar Política de Tratamiento de Datos")
+- [Política Editorial y de Actualización de Contenidos Web](https://www.icbf.gov.co/sites/default/files/13246_-_establece_politica_editorial_y_de_actualizacion_de_contenidos_we.pdf "Clic para consultar Política Editorial ICBF")
+
+[![logo GOVCO](https://www.icbf.gov.co/sites/default/files/logo_footer.png)](https://www.gov.co/ "Ir a GOVCO")
+
+[![logo CO](https://www.icbf.gov.co/sites/default/files/logo_co_footer.png)](https://www.colombia.co/ "Ir a CO Colombia")
+
+[Correo Interno Funcionarios ICBF](https://mail.icbf.gov.co/ "Ingreso correo interno") [Mapa del sitio](https://www.icbf.gov.co/sitemap "consultar mapa del sitio") [Intranet](https://intranet.icbf.gov.co/ "ingreso intranet") [Ingresar](https://www.icbf.gov.co/user/login "Ingreso administrador")
+
+© Copyright 2021 - Todos los derechos reservados - Gobierno de Colombia
