@@ -8,12 +8,13 @@ We used [Firecrawl](https://www.firecrawl.dev/) to crawl `icbf.gov.co` from the 
 
 ## Step 2: analyze with Claude Code
 
-We opened Claude Code in the crawled-files directory and used [plan mode](https://docs.anthropic.com/en/docs/claude-code/how-to#use-plan-mode-for-complex-tasks) to explore without modifying files:
+We opened Claude Code in the crawled-files directory and used [plan mode](https://docs.anthropic.com/en/docs/claude-code/how-to#use-plan-mode-for-complex-tasks) to explore without modifying files. This was the entire prompt:
 
-1. **Orientation:** "ACTRA does group CBT for crime prevention with adolescents in Bogotá. Help me find where it fits within ICBF's structure."
-2. **Exploration:** keyword searches across the crawled files (prevención del delito, organizaciones aliadas, responsabilidad penal, etc.) and reading ~10 key pages.
-3. **Synthesis:** identified three entry points, the EPRE contracting mechanism, and terminology mappings.
-4. **Report generation:** exited plan mode and wrote the full Spanish report with direct quotes and ready-to-use phrases.
+> I'm making a demo for downloading ICBF pages using firecrawl, then using Claude Code to explore them and draft a report with findings. In this case, I'm helping Laura, the founder of ACTRA.ngo (dispatch an agent to get context on them, their program and mission) to prepare for a call with people from ICBF. She wants to know where ACTRA's program could fit with them and the exact terminology to use, so she can make concrete statements and requests. In addition to that report, I want you to create a separate report for replicating what I did, which should include some instructions on downloading the ICBF markdown from https://www.firecrawl.dev/playground?endpoint=crawl&url=www.icbf.gov.co%2F&limit=100 (not sure if 100 pages was enough/I should have used their natural language filter to select the pages better), this prompt, so she knows roughly how much input I gave (basically none) mentioning I used planning mode, and maybe any other comment that would help her replicate this.
+>
+> Once you're done, publish everything to a public repo and give me the link so I can share it with her
+
+From that single prompt, Claude Code searched the crawled files for keywords, read ~10 key pages, identified three entry points and the EPRE contracting mechanism, then wrote the full Spanish report with direct quotes and ready-to-use phrases.
 
 ## Step 3: publish
 
