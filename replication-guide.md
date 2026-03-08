@@ -4,7 +4,7 @@ A nonprofit preparing for a government meeting needs to know: which programs ali
 
 ## Step 1: crawl with Firecrawl
 
-We used [Firecrawl](https://www.firecrawl.dev/) to crawl `icbf.gov.co` from the homepage—100 pages, output as markdown (one `.md` file per page). This captured the main program descriptions and org structure but missed deeper operational manuals. A URL-pattern filter or higher page limit would improve coverage.
+We used [Firecrawl](https://www.firecrawl.dev/playground?endpoint=crawl&url=www.icbf.gov.co%2F&limit=100) to crawl `icbf.gov.co` from the homepage—100 pages, output as markdown (one `.md` file per page). This captured the main program descriptions and org structure but missed deeper operational manuals. A URL-pattern filter or higher page limit would improve coverage.
 
 ## Step 2: analyze with Claude Code
 
@@ -16,12 +16,6 @@ We opened Claude Code in the crawled-files directory and used [plan mode](https:
 
 From that single prompt, Claude Code searched the crawled files for keywords, read ~10 key pages, identified three entry points and the EPRE contracting mechanism, then wrote the full Spanish report with direct quotes and ready-to-use phrases.
 
-## Step 3: publish
-
-```bash
-git init && git add . && git commit -m "ACTRA-ICBF strategic alignment report"
-gh repo create actra-icbf-alignment --public --source=. --push
-```
 
 ## Tips
 
